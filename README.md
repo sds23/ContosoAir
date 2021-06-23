@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/pskaz400/github01/_apis/build/status/sds23.ContosoAir?branchName=master)](https://dev.azure.com/pskaz400/github01/_build/latest?definitionId=2&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
